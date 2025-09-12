@@ -33,7 +33,7 @@ google-services.json
 # Android Profiling
 *.hprof
 
-#Ignore model weights 
+#Ignore model weights and csv files
 *.h5
-
+*.csv
 
