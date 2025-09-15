@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "856979010988",
+    "firebase_url": "https://asp-with-firebase-default-rtdb.firebaseio.com",
+    "project_id": "asp-with-firebase",
+    "storage_bucket": "asp-with-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856979010988:android:92626ae1119f58ea4f7609",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856979010988-an1m6q4lv7254aua9sth0hfmhv5ppeu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxORx0DweYxy53qO_ohtVLNGmpZ6QpSK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856979010988-an1m6q4lv7254aua9sth0hfmhv5ppeu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856979010988:android:fb5ffd98e11945764f7609",
+        "android_client_info": {
+          "package_name": "com.example.myapplication7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856979010988-an1m6q4lv7254aua9sth0hfmhv5ppeu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxORx0DweYxy53qO_ohtVLNGmpZ6QpSK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856979010988-an1m6q4lv7254aua9sth0hfmhv5ppeu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856979010988:android:3bf3358c1f2eea194f7609",
+        "android_client_info": {
+          "package_name": "com.example.smartcampusguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856979010988-an1m6q4lv7254aua9sth0hfmhv5ppeu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxORx0DweYxy53qO_ohtVLNGmpZ6QpSK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856979010988-an1m6q4lv7254aua9sth0hfmhv5ppeu6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
