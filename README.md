@@ -31,6 +31,12 @@ We evaluated model performance on the test set using accuracy, recall, precision
 
 <img width="1047" height="592" alt="image" src="https://github.com/user-attachments/assets/3092cdaa-5ea1-4e4e-9541-31a8afc82fd6" />
 
+To better understand how the model makes predictions, I used **Grad-CAM** to visualize the important regions in input images.  
+Below is an example highlighting the areas the model focused on while classifying an image of the Apple Lab:
+
+<img width="300" height="300" alt="1" src="https://github.com/user-attachments/assets/10499601-3ad5-4919-bee9-13ca94c467e9" />
+
+
 **Note:** These results reflect performance on a small, domain-specific dataset (4 classes, 4,502 images).  
 Such high accuracy is expected in this controlled setting and may not generalize to larger or more diverse datasets.
 
