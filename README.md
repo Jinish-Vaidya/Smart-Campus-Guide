@@ -38,7 +38,7 @@ Below is an example highlighting the areas the model focused on while classifyin
 
 To evaluate classification performance, I used **ROCcurves**.  
 The curves demonstrate the model’s ability to distinguish between classes, with higher area under the curve (AUC) values indicating stronger performance. 
-Belw is one of the example highlights 
+Below is one of the example highlights: 
 <div align="center"><img width="1035" height="425" alt="image" src="https://github.com/user-attachments/assets/dff06e5e-11f5-4320-8e43-9d0934f5fa36" /></div>
 
 
