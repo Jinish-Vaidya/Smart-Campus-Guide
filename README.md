@@ -1,5 +1,5 @@
 # Smart Campus Guide
-University Indoor Scene Classification research project implemented as a mobile app and published as a research paper. This work was published in [IEEE ICIRCA 2022](https://ieeexplore.ieee.org/document/9985516).
+University Indoor Scene Classification research project implemented as a mobile app and published as a research paper.
 
 **Abstract**
 
